@@ -7,10 +7,10 @@ class App extends Component {
     return (
       <>
         <ContactCard
-          name="John"
-          mobile="2125555555"
-          work="8002222222"
-          email="hello@example.com"
+          name="Bob"
+          mobile="2122130720"
+          work="800999999"
+          email="bobbie@gmail.com"
         />
         <ContactCard
           name="Jill"
@@ -19,10 +19,10 @@ class App extends Component {
           email="jill@example.org"
         />
         <ContactCard
-          name="Mike"
-          mobile="3475555555"
-          work="5552222222"
-          email="mike@example.com"
+          name="Jack"
+          mobile="3476854999"
+          work="891829192"
+          email="Jack@example.com"
         />
       </>
     );
